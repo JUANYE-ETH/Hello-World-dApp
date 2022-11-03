@@ -1,0 +1,1 @@
+This dApp was made for the EarnWeb3 DAO QuickNode bounty by Juanye.
