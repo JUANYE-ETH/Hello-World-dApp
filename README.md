@@ -1,4 +1,4 @@
-# Decentralized Mood Diary
+# Hello World dApp
 
 A secure and user-friendly decentralized mood diary application built on the Ethereum blockchain using Solidity, Ethers.js, HTML, CSS, and JavaScript. Users can create, store, and retrieve their mood entries securely on the blockchain, ensuring their data remains tamper-proof and private. The front-end provides a seamless user experience and is designed to work well on both desktop and mobile devices.
 
